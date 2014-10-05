@@ -1,0 +1,102 @@
+/*
+==================
+ Containers
+==================
+*/
+
+#main {
+	margin-top: 20px;
+}
+
+#buttons {
+	margin: 80px;
+}
+
+body {
+	vertical-align: middle;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	/*font-family: 'PT Sans', sans-serif;*/
+}
+#footer {
+	position: absolute;
+	bottom: 10px;
+	right: 5px;
+
+	vertical-align: bottom;
+	text-align: right;
+}
+
+/*
+==================
+ Elements
+==================
+*/
+
+img {
+	height:120px;
+	width:120px;
+	margin: 20px;
+}
+
+hr {
+	width:200px;
+	height: 2px;
+}
+
+/*
+==================
+ Links
+==================
+*/
+
+a, a:visited {
+	color: #000000;
+	text-decoration: none;
+	transition: text-shadow 0.2s linear 0s;
+}
+
+a:hover {
+	text-shadow: 2px 2px 8px #000000;
+}
+
+/*
+==================
+ Lists
+==================
+*/
+
+ul {
+	clear: both;
+    list-style: none outside none;
+    margin: 20px auto;
+    width: 400px;
+}
+
+li, li:visited {
+	float: left;
+    transition: all 0.4s ease 0s;
+}
+
+li:hover {
+	transform: scale(1.05);
+}
+
+#footer li {
+	list-style: none inside none
+}
+
+/*
+==================
+ Headings
+==================
+*/
+
+h1 {
+	font-weight: lighter;
+}
+
+h2 {
+	font-weight: lighter;
+	font-size: 90%;
+}
