@@ -4,7 +4,7 @@ title: About me
 cover: true
 ---
 
-My name is Stefanos Laskaridis and I am a MLSys research scientist from Greece. My focus is on Machine Learning and Distributed Systems. You also go by Steve.
+My name is Stefanos Laskaridis and I am a MLSys research scientist from Greece. My focus is on Machine Learning and Distributed Systems. I also go by "Steve" for short.
 
 Currently, I am researcher at [Samsung AI Center](https://research.samsung.com/aicentre_cambridge) in Cambridge, UK,
 focusing on the area of **Federated Learning** and **efficient on-device** or **collaborative ML**.
