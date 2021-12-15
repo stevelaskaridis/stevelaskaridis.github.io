@@ -42,7 +42,7 @@ logo:                  /assets/img/stevelaskaridis.jpg
 author:
   # Used by `jekyll-feed`:
   name:                Stefanos Laskaridis
-  email:               sl829@alumni.cam.ac.uk
+  email:               sl829 _at_ alumni.cam.ac.uk
   # # Used by `jekyll-seo-tag`:
   twitter:             stevelaskaridis
 
