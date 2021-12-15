@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  # - title:             Home
-  #   url:               /
+  - title:             Home
+    url:               /
   - title:             Bio
     url:               /bio/
   - title:             Research
@@ -91,7 +91,7 @@ theme: jekyll-theme-hydejack
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/background.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -190,10 +190,10 @@ kramdown:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random, comments]
+  post_addons:         [related]
 
   # Configure the order of complementary content on project pages
-  project_addons:      [about, newsletter, other, comments]
+  project_addons:      []
 
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external:    false
