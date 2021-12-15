@@ -15,7 +15,7 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 * **MPhil** in _Advanced Computer Science_, **University of Cambridge** (Distinction, Cambridge Trust Scholar)
 * **BSc** in _Computer Science_, **Aristotle University of Thessaloniki** (AUTh) (GPA: 9.60/10.00)
-* 1 year of **BA** in _Accounting & Finance_, **University of Macedonia** (GPA: 8.0/10.0)
+* 1 year of **BA** in _Accounting & Finance_, **University of Macedonia**
 * CERN School of Computing 2016, Vrije Universiteit Brussel & CERN
 
 ## Skills
