@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About me
+cover: true
 ---
 
 My name is Stefanos Laskaridis and I am a MLSys research scientist from Greece. My focus is on Machine Learning and Distributed Systems. You also go by Steve.
