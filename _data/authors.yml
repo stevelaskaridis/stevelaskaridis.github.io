@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Stefanos Laskaridis
-  email:             sl829@alumni.cam.ac.uk
+  email:             mail_at_stefanos.cc
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -24,7 +24,7 @@ author1:
   social:
     twitter:         stevelaskaridis
     github:          stevelaskaridis
-    email:           sl829_at_alumni.cam.ac.uk
+    email:           mail_at_stefanos.cc
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
