@@ -3,7 +3,7 @@ layout: about
 title: Research
 ---
 
-Always looking into contributing back to the scientific community. For invitations, please send me an [e-mail](mailto:sl829@alumni.cam.ac.uk).
+Always looking into contributing back to the scientific community. For invitations, please send me an [e-mail](mailto:mail@stefanos.cc).
 
 ## Organisation
 
