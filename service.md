@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Research
+title: Service
 ---
 
 Always looking into contributing back to the scientific community. For invitations, please send me an [e-mail](mailto:mail@stefanos.cc).
