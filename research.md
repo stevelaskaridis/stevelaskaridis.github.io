@@ -5,11 +5,11 @@ title: Research
 
 For the most updated overview of my papers, please visit my [scholar page](https://scholar.google.com/citations?user=TcVC--IAAAAJ&hl=en).
 
-## Pre-prints
+## Paper pre-prints
 
 * A. Kouris, S. I. Venieris, **S. Laskaridis**, N. D. Lane, “Multi-Exit Semantic Segmentation Networks”, [arXiv:2106.03527](https://arxiv.org/abs/2106.03527)
 
-## Peer-reviewed 
+## Peer-reviewed papers
 
 * M. Almeida\*, **S. Laskaridis**\*, S. I. Venieris\*, I. Leontiadis\*, N. D. Lane, “DynO: Dynamic Onloading of Deep Neural Networks from Cloud to Device”, _Special Issue on Accelerating AI on the Edge in Transactions of ACM Embedded Computing Systems (TECS)_, 2022 \[[paper](https://dl.acm.org/doi/10.1145/3510831), [preprint](https://arxiv.org/abs/2104.09949)\]
 * S. Horvath\*, **S. Laskaridis**\*, M. Almeida\*, et al., “FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout”, _Conference on Neural Information Processing Systems (NeurIPS)_, 2021, Spotlight (top 3%) \[[paper](https://openreview.net/forum?id=4fLr7H5D_eT), [poster](https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/dvJbP2PIrIHmxhmk/nZbgRwM3fA39xABVqwjHAD)\]
@@ -26,3 +26,15 @@ For the most updated overview of my papers, please visit my [scholar page](https
 ## Patents
 
 * **S. Laskaridis**, H. Kim, S. I. Venieris, “Method and system for implementing a variable accuracy neural network”, _US Patent App._, [No.16923447](https://patents.google.com/patent/US20210012194A1/en)
+
+## Talks
+
+* Panel co-ordinator on “Federated Learning and Distributed Learning”, DistributedML 2021 \[[video](https://www.youtube.com/watch?v=BpjiNASR4YA)\]
+    <small>- Panelists: [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) (Harvard University, MLCommons), [Bo Li](https://cs.illinois.edu/about/people/faculty/lbo) (UIUC), [Mosharaf Chowdhury](https://www.mosharaf.com/) (University of Michigan), [Tianyi Chen](Tianyi Chen) (RPI)</small>
+* “Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout”, FLOW Seminar \[[video](https://www.youtube.com/watch?v=U4tEx3VqPdk)\]
+* “Is the future of IoT learning Decentralised”, MobiSys 2021 IoT Day \[[link](https://www.sigmobile.org/mobisys/2021/iot.html)\]
+* “Federated Learning with Ordered Dropout for system heterogeneity”, Flower Summit 2021 \[[video](https://www.youtube.com/watch?v=3snQGkzmbFA)\]
+* Panel co-ordinator on “Federated Learning and Collaborative Inference”, DistributedML 2020 \[[video](https://www.youtube.com/watch?v=nRAsU31VTKc)\]
+    <small>- Panelists: [Dimitris Papailiopoulos](https://papail.io/) (Wisconsin-Madison), [Amanda Prorok](https://www.cst.cam.ac.uk/people/asp45) (University of Cambridge), [Fahim Kawsar](http://www.fahim-kawsar.net/) (Bell Labs, TU Delft), [Ilias Leontiadis](https://leontiadis.net/) (Samsung AI)</small>
+* “SPINN: Synergistic Progressive Inference of Neural Networks over Device and Cloud”, Mobicom 2021 \[[video](https://www.youtube.com/watch?v=Vzs_VU9K0b0)\]
+
