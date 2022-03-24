@@ -18,11 +18,13 @@ Always looking into contributing back to the scientific community. For invitatio
 #### Conferences
 
 * ACM IPSN 2022
+* Springer ECML/PKDD 2022
 * IEEE ICDCS 2021
-* ACM IMWUT {2021, 2020}
+* ACM IMWUT {2022, 2021, 2020}
 * ACM SIGKDD {2021,2020}
 
 #### Shadow PC
+
 * EuroSys 2020
 * ACM IMC 2019
 
@@ -40,5 +42,7 @@ Always looking into contributing back to the scientific community. For invitatio
 * ICLR DPML 2021,
 * ACM MobiSys MAISP 2021
 
+#### Other
 
-
+* IEEE ICDCS PhD Symposium 2022
+* Mobicom 2021 SRC (Student Reserch Competition)
