@@ -31,7 +31,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 ## Talks
 
 * "Measuring and tackling system heterogeneity in on-device DNN deployment", University of Avignon
-* "Federated Learning: Current landscape and challenges", Federated Mobile Sensing for Activity Recognition Tutorial, MobiCom 2021
+* "Federated Learning: Current landscape and challenges", Federated Mobile Sensing for Activity Recognition Tutorial, MobiCom 2021 \[[video](https://www.youtube.com/watch?v=PLWxYEF1vVg)\]
 * Panel co-ordinator on “Federated Learning and Distributed Learning”, DistributedML 2021 \[[video](https://www.youtube.com/watch?v=BpjiNASR4YA)\]
     <small>- Panelists: [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) (Harvard University, MLCommons), [Bo Li](https://cs.illinois.edu/about/people/faculty/lbo) (UIUC), [Mosharaf Chowdhury](https://www.mosharaf.com/) (University of Michigan), [Tianyi Chen](Tianyi Chen) (RPI)</small>
 * “Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout”, FLOW Seminar \[[video](https://www.youtube.com/watch?v=U4tEx3VqPdk)\]
