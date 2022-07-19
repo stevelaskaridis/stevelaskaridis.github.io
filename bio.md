@@ -7,7 +7,7 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 ## Work Experience
 
-* ML Researcher @ Samsung AI Center, _Cambridge, UK_
+* ML Research Scientist @ Samsung AI Center, _Cambridge, UK_
 * Software Engineer @ CERN, _Meyrin, Geneva, Switzerland_
 * Programmer/SysAdmin intern @ Scientific Computing Center, it.auth, Aristotle University of Thessaloniki, _Greece_
 
@@ -21,6 +21,6 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 ## Skills
 
 | **Programming/Script Languages:** | Python, Scala, C/C++, Java, Ruby, Javascript, MATLAB, bash |
-| **Frameworks/Tools:** | PyTorch, Tensorflow, Pandas, Apache Spark, Hadoop, Django, git, ansible, docker, matplotlib, LaTeX | 
-| **Databases:** | PostgreSQL, MySQL, SQLite, MongoDB, Redis | 
+| **Frameworks/Tools:** | PyTorch, Tensorflow, Pandas, Apache Spark, Hadoop, Django, git, ansible, docker, matplotlib, LaTeX |
+| **Databases:** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
 | **Operating Systems:** | GNU/Linux, Mac OS X, FreeBSD, Microsoft Windows |
