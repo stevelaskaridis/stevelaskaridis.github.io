@@ -7,10 +7,11 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
-* A. Kouris, S. I. Venieris, **S. Laskaridis**, N. D. Lane, “Multi-Exit Semantic Segmentation Networks”, [arXiv:2106.03527](https://arxiv.org/abs/2106.03527)
+* L. Dudziak\*, **S. Laskaridis**\*, J. Marques-Fernandez\*, "FedorAS: Federated Architecture Search under system heterogeneity", 2022 \[[arXiv:2206.11239](https://arxiv.org/abs/2206.11239)\]
 
 ## Peer-reviewed papers
 
+* A. Kouris, S. I. Venieris\*, **S. Laskaridis**\*, N. D. Lane, “Multi-Exit Semantic Segmentation Networks”, _European Conference in Computer Vision (ECCV) and International Conference on Mobile Systems, Applications and Services (MobiSys)_, 2022 \[[preprint](https://arxiv.org/abs/2106.03527), [short paper](https://dl.acm.org/doi/abs/10.1145/3498361.3538791)\]
 * M. Almeida\*, **S. Laskaridis**\*, S. I. Venieris\*, I. Leontiadis\*, N. D. Lane, “DynO: Dynamic Onloading of Deep Neural Networks from Cloud to Device”, _Special Issue on Accelerating AI on the Edge in Transactions of ACM Embedded Computing Systems (TECS)_, 2022 \[[paper](https://dl.acm.org/doi/10.1145/3510831), [preprint](https://arxiv.org/abs/2104.09949)\]
 * S. Horvath\*, **S. Laskaridis**\*, M. Almeida\*, et al., “FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout”, _Conference on Neural Information Processing Systems (NeurIPS)_, 2021, Spotlight (top 3%) \[[paper](https://openreview.net/forum?id=4fLr7H5D_eT), [poster](https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/dvJbP2PIrIHmxhmk/nZbgRwM3fA39xABVqwjHAD)\]
 * M. Almeida\*, **S. Laskaridis**\*, A. Mehrotra, et al., Smart at what cost? Characterising Mobile Deep Neural Networks in the wild, _ACM Internet Measurement Conference (IMC)_, 2021 \[[paper](https://dl.acm.org/doi/abs/10.1145/3487552.3487863), [preprint](https://arxiv.org/abs/2109.13963), [video](https://www.youtube.com/watch?v=6iNXymLu7Ic)\]
@@ -30,7 +31,9 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Talks
 
-* "Measuring and tackling system heterogeneity in on-device DNN deployment", University of Avignon
+* Panelist at PhD Symposium, ICDCS 2022
+    <small>- Panelists: [Mirco Musolesi](https://scholar.google.co.uk/citations?user=8t4SqVwAAAAJ&hl=en) (UCL), [Giovanni Pau](https://scholar.google.com/citations?user=jLEgvnsAAAAJ&hl=en) (University of Bologna)
+* "Measuring and tackling system heterogeneity in on-device DNN deployment", University of Avignon and FAIR Menlo Park
 * "Federated Learning: Current landscape and challenges", Federated Mobile Sensing for Activity Recognition Tutorial, MobiCom 2021 \[[video](https://www.youtube.com/watch?v=PLWxYEF1vVg)\]
 * Panel co-ordinator on “Federated Learning and Distributed Learning”, DistributedML 2021 \[[video](https://www.youtube.com/watch?v=BpjiNASR4YA)\]
     <small>- Panelists: [Vijay Janapa Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) (Harvard University, MLCommons), [Bo Li](https://cs.illinois.edu/about/people/faculty/lbo) (UIUC), [Mosharaf Chowdhury](https://www.mosharaf.com/) (University of Michigan), [Tianyi Chen](Tianyi Chen) (RPI)</small>
