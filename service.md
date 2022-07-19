@@ -7,10 +7,11 @@ Always looking into contributing back to the scientific community. For invitatio
 
 ## Organisation
 
-* 6th International Workshop on Embedded and Mobile Deep Learning, MobiSys 2022, [https://emdl22.github.io](https://emdl22.github.io)
-* Federated Mobile Sensing for Activity Recognition Tutorial, MobiCom 2021, [https://federatedsensing.gitlab.io](https://federatedsensing.gitlab.io)
-* 2nd International Workshop in Distributed ML, CoNEXT 2021,  [https://distributedml.org](https://distributedml.org])
-* 1st International Workshop in Distributed ML, CoNEXT 2020,  [https://distributedml.org/archive/2020](https://distributedml.org/archive/2020)
+* 3rd International Workshop in Distributed ML, _ACM CoNEXT 2022_, [https://distributedml.org](https://distributedml.org)
+* 6th International Workshop on Embedded and Mobile Deep Learning, _ACM MobiSys 2022_, [https://emdl22.github.io](https://emdl22.github.io)
+* Federated Mobile Sensing for Activity Recognition Tutorial, _ACM MobiCom 2021_, [https://federatedsensing.gitlab.io](https://federatedsensing.gitlab.io)
+* 2nd International Workshop in Distributed ML, _ACM CoNEXT 2021_,  [https://distributedml.org/archive/2021](https://distributedml.org/archive/2021])
+* 1st International Workshop in Distributed ML, _ACM CoNEXT 2020_,  [https://distributedml.org/archive/2020](https://distributedml.org/archive/2020)
 
 
 ## Reviewer
