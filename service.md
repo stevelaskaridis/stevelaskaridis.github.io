@@ -18,7 +18,8 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
-* ACM IPSN 2022
+* ACM IPSN {2023, 2022}
+* NeurIPS 2022
 * Springer ECML/PKDD 2022
 * IEEE ICDCS 2021
 * ACM IMWUT {2022, 2021, 2020}
