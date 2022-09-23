@@ -41,6 +41,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* FL-NeurIPS 2022
 * ACM {MobiSys,MobiCom} EMDL {2021,2020}
 * ICLR DPML 2021,
 * ACM MobiSys MAISP 2021
