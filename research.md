@@ -7,6 +7,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
+* A. Kouris\*, S. I. Venieris\*, **S. Laskaridis**, N. D. Lane, "Fluid Batching: Exit-Aware Preemptive Serving of Early-Exit Neural Networks on Edge NPUs", 2022 \[[arXiv:2209.13443](https://arxiv.org/abs/2209.13443)\]
 * L. Dudziak\*, **S. Laskaridis**\*, J. Marques-Fernandez\*, "FedorAS: Federated Architecture Search under system heterogeneity", 2022 \[[arXiv:2206.11239](https://arxiv.org/abs/2206.11239)\]
 
 ## Peer-reviewed papers
