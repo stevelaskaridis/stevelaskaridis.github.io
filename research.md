@@ -32,6 +32,8 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Talks
 
+* Panel co-ordinator on "Distributed Inference and Learning in the datacenter and in the wild”, DistributedML 2022 \[[video](https://www.youtube.com/watch?v=DCBiLRsFY24)\]
+    <small>- Panelists: [Ana Klimovic](https://anakli.inf.ethz.ch/) (ETH Zurich), [Marco Canini](https://mcanini.github.io/) (KAUST), [Dimitrios Dimitriadis](https://scholar.google.com/citations?user=AQSvco0AAAAJ&hl=en) (Amazon), [Christos Louizos](https://scholar.google.nl/citations?user=xrSUChoAAAAJ&hl=en) (Qualcomm AI)</small>
 * Panelist at PhD Symposium, ICDCS 2022
     <small>- Panelists: [Mirco Musolesi](https://scholar.google.co.uk/citations?user=8t4SqVwAAAAJ&hl=en) (UCL), [Giovanni Pau](https://scholar.google.com/citations?user=jLEgvnsAAAAJ&hl=en) (University of Bologna)
 * "Measuring and tackling system heterogeneity in on-device DNN deployment", University of Avignon and FAIR Menlo Park
