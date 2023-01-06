@@ -18,6 +18,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* DAC 2023
 * ACM IPSN {2023, 2022}
 * NeurIPS 2022
 * Springer ECML/PKDD 2022
@@ -32,6 +33,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Journals
 
+* IEEE Transaction on Parallel and Distributed Systems 2023
 * ACM Computing Surveys 2022
 * IEEE Transactions on Mobile Computing (TMC) 2021
 * IEEE Pervasive Computing {2021, 2020}
