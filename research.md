@@ -32,6 +32,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Talks
 
+* \[To be given\] "Capturing and tackling system heterogeneity in the wild: Tales from deploying DNNs across various devices", [WIC Mid-Winter Meeting 2023 @ TU Eindhoven](https://sites.google.com/view/wic-mid-winter-meeting-2023/invited-speakers)
 * Panel co-ordinator on "Distributed Inference and Learning in the datacenter and in the wild”, DistributedML 2022 \[[video](https://www.youtube.com/watch?v=DCBiLRsFY24)\]
     <small>- Panelists: [Ana Klimovic](https://anakli.inf.ethz.ch/) (ETH Zurich), [Marco Canini](https://mcanini.github.io/) (KAUST), [Dimitrios Dimitriadis](https://scholar.google.com/citations?user=AQSvco0AAAAJ&hl=en) (Amazon), [Christos Louizos](https://scholar.google.nl/citations?user=xrSUChoAAAAJ&hl=en) (Qualcomm AI)</small>
 * Panelist at PhD Symposium, ICDCS 2022
