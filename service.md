@@ -18,6 +18,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* DAC 2023
 * ACM IPSN {2023, 2022}
 * NeurIPS 2022
 * Springer ECML/PKDD 2022
