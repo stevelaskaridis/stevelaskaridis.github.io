@@ -32,8 +32,9 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Journals
 
+* IEEE Transactions on Mobile Computing (TMC) {2021, 2023}
+* Transactions on Parallel and Distributed Systems 2023
 * ACM Computing Surveys 2022
-* IEEE Transactions on Mobile Computing (TMC) 2021
 * IEEE Pervasive Computing {2021, 2020}
 * ACM Transactions on Internet Technology (TOIT) 2021
 * ACM Transactions on Computer Systems (TOCS) 2021
