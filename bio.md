@@ -7,6 +7,7 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 ## Work Experience
 
+* ML Researcher @ Brave Software, _London, UK_
 * ML Research Scientist @ Samsung AI Center, _Cambridge, UK_
 * Software Engineer @ CERN, _Meyrin, Geneva, Switzerland_
 * Programmer/SysAdmin intern @ Scientific Computing Center, it.auth, Aristotle University of Thessaloniki, _Greece_
