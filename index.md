@@ -4,7 +4,7 @@ title: About me
 cover: true
 ---
 
-My name is Stefanos Laskaridis and I am a ML researcher scientist from Greece. My focus is on Machine Learning and Distributed Systems, with a special interest for privacy. I also go by "Steve" for short.
+My name is Stefanos Laskaridis and I am an ML research scientist from Greece. My focus is on Machine Learning and Distributed Systems, with a special interest for privacy. I also go by "Steve" for short.
 
 Currently, I am researcher at [Brave](https://brave.com), focusing on the area of **privacy-preserving ML** and **Federated Learning**. Before that, I used to be a research scientist at [Samsung AI Center](https://research.samsung.com/aicentre_cambridge) in Cambridge, UK, working in the areas of **distributed**, **collaborative** and **efficient on-device ML**.
 Previously, I did my MPhil in the [University of Cambridge](https://www.cst.cam.ac.uk/) and prior to that I was a Software Engineer for the Storage Group (IT-ST-TAB) at [CERN](https://cern.ch), in Geneva, Switzerland.
