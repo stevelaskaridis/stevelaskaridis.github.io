@@ -43,11 +43,12 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* MobiCom FedEdge 2023 
 * FL-ICML 2023
-* FLSys 2023
+* MLSys FLSys 2023
 * FL-NeurIPS 2022
 * ACM {MobiSys,MobiCom} EMDL {2021,2020}
-* ICLR DPML 2021,
+* ICLR DPML 2021
 * ACM MobiSys MAISP 2021
 
 #### Other
