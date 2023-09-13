@@ -43,7 +43,8 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
-* MobiCom FedEdge 2023 
+* FL-NeurIPS 2023
+* MobiCom FedEdge 2023
 * FL-ICML 2023
 * MLSys FLSys 2023
 * FL-NeurIPS 2022
