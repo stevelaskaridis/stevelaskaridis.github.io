@@ -7,6 +7,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 ## Organisation
 
+* 1st Workshop on Human-Centric Representation Learning (HCRL), _AAAI 2024_, [https://hcrl-workshop.github.io/2024/](https://hcrl-workshop.github.io/2024/)
 * 4th International Workshop in Distributed ML, _ACM CoNEXT 2023_, [https://distributedml.org](https://distributedml.org)
 * 3rd International Workshop in Distributed ML, _ACM CoNEXT 2022_, [https://distributedml.org/archive/2022](https://distributedml.org/archive/2022)
 * 6th International Workshop on Embedded and Mobile Deep Learning, _ACM MobiSys 2022_, [https://emdl22.github.io](https://emdl22.github.io)
