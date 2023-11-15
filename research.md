@@ -30,7 +30,9 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Patents
 
-* **S. Laskaridis**, S. Horvath, M. Almeida, I.Leontiadis, S. I. Venieris, "Method, system and apparatus for federated learning", _US Patent App._, [No.17586178](https://patents.google.com/patent/US20220245459A1/en)
+* A. Kouris, S. I. Venieris, **S. Laskaridis**, I. Leontiadis, "Method and apparatus for image segmentation", _US Patent App._, [No.
+17888138](https://patents.google.com/patent/US20230128637A1/en)
+* **S. Laskaridis**, S. Horvath, M. Almeida, I. Leontiadis, S. I. Venieris, "Method, system and apparatus for federated learning", _US Patent App._, [No.17586178](https://patents.google.com/patent/US20220245459A1/en)
 * M.Almeida, **S. Laskaridis**, S. I. Venieris, I. Leontiadis, "Method and system for neural network execution distribution", _US Patent App._, [No.17420259](https://patents.google.com/patent/US20220083386A1/en)
 * **S. Laskaridis**, H. Kim, S. I. Venieris, “Method and system for implementing a variable accuracy neural network”, _US Patent App._, [No.16923447](https://patents.google.com/patent/US20210012194A1/en)
 
