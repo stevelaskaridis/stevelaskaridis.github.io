@@ -38,6 +38,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Talks
 
+* “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home)
 * "Dandelion: Privacy-Preserving Cross-Device FL in Brave Browser", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
 * "FedorAS: Federated Architecture Search under system heterogeneity", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
 * "Embracing Diversity: Overcoming System Heterogeneity Challenges in Federated Learning", CS Department, Aristotle University of Thessaloniki (AUTh)
