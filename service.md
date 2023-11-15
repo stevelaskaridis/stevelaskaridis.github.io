@@ -28,13 +28,9 @@ Always looking into contributing back to the scientific community. For invitatio
 * ACM IMWUT {2022, 2021, 2020}
 * ACM SIGKDD {2021,2020}
 
-#### Shadow PC
-
-* EuroSys 2020
-* ACM IMC 2019
-
 #### Journals
 
+* IEEE Transactions on Consumer Electronics (TCE) 2023
 * IEEE Transactions on Mobile Computing (TMC) {2023, 2021}
 * Transactions on Parallel and Distributed Systems 2023
 * ACM Computing Surveys 2022
@@ -45,7 +41,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
-* FL-NeurIPS 2023
+* FL@FM-NeurIPS 2023
 * MobiCom FedEdge 2023
 * FL-ICML 2023
 * MLSys FLSys 2023
@@ -53,6 +49,11 @@ Always looking into contributing back to the scientific community. For invitatio
 * ACM {MobiSys,MobiCom} EMDL {2021,2020}
 * ICLR DPML 2021
 * ACM MobiSys MAISP 2021
+
+#### Shadow PC
+
+* EuroSys 2020
+* ACM IMC 2019
 
 #### Other
 
