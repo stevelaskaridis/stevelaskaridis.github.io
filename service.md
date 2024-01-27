@@ -20,6 +20,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* ICDCS 2024
 * DAC 2023
 * ACM IPSN {2023, 2022}
 * NeurIPS {2023, 2022}
@@ -30,7 +31,8 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Journals
 
-* IEEE Transactions on Consumer Electronics (TCE) 2023
+* IEEE Computer {2024}
+* IEEE Transaction on Computer Electronics 2023
 * IEEE Transactions on Mobile Computing (TMC) {2023, 2021}
 * Transactions on Parallel and Distributed Systems 2023
 * ACM Computing Surveys 2022
@@ -41,14 +43,15 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
-* FL@FM-NeurIPS 2023
-* MobiCom FedEdge 2023
+* Privacy Regulation and Protection in Machine Learning @ ICLR 2024
+* FL-NeurIPS 2023
+* FedEdge@MobiCom 2023
 * FL-ICML 2023
-* MLSys FLSys 2023
+* FLSys@MLSys 2023
 * FL-NeurIPS 2022
-* ACM {MobiSys,MobiCom} EMDL {2021,2020}
+* EMDL@{MobiSys,MobiCom} {2021,2020}
 * ICLR DPML 2021
-* ACM MobiSys MAISP 2021
+* MAISP@MobiSys 2021
 
 #### Shadow PC
 
