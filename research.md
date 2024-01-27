@@ -38,6 +38,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Talks
 
+* "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/)
 * “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home)
 * "Dandelion: Privacy-Preserving Cross-Device FL in Brave Browser", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
 * "FedorAS: Federated Architecture Search under system heterogeneity", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
