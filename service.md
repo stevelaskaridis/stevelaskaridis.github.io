@@ -43,15 +43,16 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* EdgeFM @ MobiSys 2024
 * Privacy Regulation and Protection in Machine Learning @ ICLR 2024
 * FL-NeurIPS 2023
 * FedEdge@MobiCom 2023
 * FL-ICML 2023
-* FLSys@MLSys 2023
+* FLSys @ MLSys 2023
 * FL-NeurIPS 2022
-* EMDL@{MobiSys,MobiCom} {2021,2020}
+* EMDL @ {MobiSys,MobiCom} {2021,2020}
 * ICLR DPML 2021
-* MAISP@MobiSys 2021
+* MAISP @ MobiSys 2021
 
 #### Shadow PC
 
