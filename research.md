@@ -7,6 +7,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
+* **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", 2024, \[[arXiv:2403.12844](https://arxiv.org/abs/2403.12844)\]
 * **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", 2022 \[[arXiv:2210.10514](https://arxiv.org/abs/2210.10514)\]
 * Z. Liu, D. Li, J. Fernandez-Marques, **S. Laskaridis**, Y. Gao, Ł. Dudziak, S. Z. Li, S. Xu Hu, T. Hospedales, "Federated Learning for Inference at Anytime and Anywhere", 2022 \[[arXiv:2212.04084](https://arxiv.org/abs/2212.04084)\]
 
