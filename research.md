@@ -36,10 +36,10 @@ For the most updated overview of my papers, please visit my [scholar page](https
 * M.Almeida, **S. Laskaridis**, S. I. Venieris, I. Leontiadis, "Method and system for neural network execution distribution", _US Patent App._, [No.17420259](https://patents.google.com/patent/US20220083386A1/en)
 * **S. Laskaridis**, H. Kim, S. I. Venieris, “Method and system for implementing a variable accuracy neural network”, _US Patent App._, [No.16923447](https://patents.google.com/patent/US20210012194A1/en)
 
-## Talks
+## Public Talks
 
-* "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/)
-* “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home)
+* "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/) \[[video](https://www.youtube.com/watch?v=aYkCAIEtEFM)\]
+* “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home) \[[video](https://www.youtube.com/watch?v=WyKxGKy_rnk)\]
 * "Dandelion: Privacy-Preserving Cross-Device FL in Brave Browser", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
 * "FedorAS: Federated Architecture Search under system heterogeneity", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
 * "Embracing Diversity: Overcoming System Heterogeneity Challenges in Federated Learning", CS Department, Aristotle University of Thessaloniki (AUTh)
