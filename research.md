@@ -7,13 +7,14 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
-* **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", 2024, \[[arXiv:2403.12844](https://arxiv.org/abs/2403.12844)\]
-* **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", 2022 \[[arXiv:2210.10514](https://arxiv.org/abs/2210.10514)\]
-* Z. Liu, D. Li, J. Fernandez-Marques, **S. Laskaridis**, Y. Gao, Ł. Dudziak, S. Z. Li, S. Xu Hu, T. Hospedales, "Federated Learning for Inference at Anytime and Anywhere", 2022 \[[arXiv:2212.04084](https://arxiv.org/abs/2212.04084)\]
+* **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", 2024 \[[arXiv:2403.12844](https://arxiv.org/abs/2403.12844)\]
+* **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", 2023 \[[arXiv:2210.10514](https://arxiv.org/abs/2210.10514)\]
 
 ## Peer-reviewed papers
 
-* S. Horvath, **S. Laskaridis**, S. Rajput, H. Wang, "Maestro: Uncovering Low-Rank Structures via Trainable Decomposition", _Workshop on Advancing Neural Network Training (WANT-AI @ NeurIPS)_, 2023 \[[paper](https://openreview.net/forum?id=HsuDlFYL82),[preprint](https://arxiv.org/abs/2308.14929)\]
+* R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early
+Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[preprint](https://drive.google.com/file/d/1319QyhxWPlbe2kc_76MwEvj4vBXvxqPL/view)\]
+* S. Horvath, **S. Laskaridis**, S. Rajput, H. Wang, "Maestro: Uncovering Low-Rank Structures via Trainable Decomposition", _International Conference on Machine Learning (ICML'24) & Workshop on Advancing Neural Network Training (WANT-AI @ NeurIPS'23)_, 2024 \[[paper](https://openreview.net/forum?id=HsuDlFYL82),[preprint](https://arxiv.org/abs/2308.14929)\]
 * A. Kouris\*, S. I. Venieris\*, **S. Laskaridis**, N. D. Lane, "Fluid Batching: Exit-Aware Preemptive Serving of Early-Exit Neural Networks on Edge NPUs", _International Conference on Computer-Aided Design (ICCAD)_, 2023 **Best Paper Award Finalist** \[[preprint](https://arxiv.org/abs/2209.13443)\]
 * L. Dudziak\*, **S. Laskaridis**\*, J. Fernandez-Marques\*, "FedorAS: Federated Architecture Search under system heterogeneity", _FL-NeurIPS_, 2022 \[[arXiv:2206.11239](https://arxiv.org/abs/2206.11239)\] \[[short paper](https://openreview.net/forum?id=C1NtSM4Q4i3)\]
 * A. Kouris, S. I. Venieris\*, **S. Laskaridis**\*, N. D. Lane, “Multi-Exit Semantic Segmentation Networks”, _European Conference in Computer Vision (ECCV) and International Conference on Mobile Systems, Applications and Services (MobiSys)_, 2022 \[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810326.pdf)\], \[[preprint](https://arxiv.org/abs/2106.03527), [short paper](https://dl.acm.org/doi/abs/10.1145/3498361.3538791)\]
