@@ -13,7 +13,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 ## Peer-reviewed papers
 
 * R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early
-Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[preprint](https://drive.google.com/file/d/1319QyhxWPlbe2kc_76MwEvj4vBXvxqPL/view)\]
+Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[preprint](https://arxiv.org/abs/2405.14791)\]
 * S. Horvath, **S. Laskaridis**, S. Rajput, H. Wang, "Maestro: Uncovering Low-Rank Structures via Trainable Decomposition", _International Conference on Machine Learning (ICML'24) & Workshop on Advancing Neural Network Training (WANT-AI @ NeurIPS'23)_, 2024 \[[paper](https://openreview.net/forum?id=HsuDlFYL82),[preprint](https://arxiv.org/abs/2308.14929)\]
 * A. Kouris\*, S. I. Venieris\*, **S. Laskaridis**, N. D. Lane, "Fluid Batching: Exit-Aware Preemptive Serving of Early-Exit Neural Networks on Edge NPUs", _International Conference on Computer-Aided Design (ICCAD)_, 2023 **Best Paper Award Finalist** \[[preprint](https://arxiv.org/abs/2209.13443)\]
 * L. Dudziak\*, **S. Laskaridis**\*, J. Fernandez-Marques\*, "FedorAS: Federated Architecture Search under system heterogeneity", _FL-NeurIPS_, 2022 \[[arXiv:2206.11239](https://arxiv.org/abs/2206.11239)\] \[[short paper](https://openreview.net/forum?id=C1NtSM4Q4i3)\]
