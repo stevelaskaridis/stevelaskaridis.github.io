@@ -52,6 +52,8 @@ author:
 menu:
   - title:             Home
     url:               /
+  - title:             News
+    url:               /news/
   - title:             Bio
     url:               /bio/
   - title:             Research
@@ -72,7 +74,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2022. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
