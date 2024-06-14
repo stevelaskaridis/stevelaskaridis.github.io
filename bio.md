@@ -22,7 +22,9 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 ## Skills
 
-| **Programming/Script Languages:** | Python, Scala, C/C++, Java, Ruby, Javascript, MATLAB, bash |
-| **Frameworks/Tools:** | PyTorch, Tensorflow, Pandas, Apache Spark, Hadoop, Django, git, ansible, docker, matplotlib, LaTeX |
+| **Programming/Script Languages:** | Python, C/C++, Java, Scala, Ruby, Javascript, bash |
+| **Frameworks/Tools:** | PyTorch, TensorFlow, Numpy, Pandas, W&B, Apache Spark, git, SLURM, ansible, docker, matplotlib, LaTeX |
 | **Databases:** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
-| **Operating Systems:** | GNU/Linux, Mac OS X, FreeBSD, Microsoft Windows |
+| **Operating Systems:** | GNU/Linux, Mac OS X, FreeBSD, Android |
+| **Languages:**| English (Certificate of Proficiency in English (C2), IELTS Academic (8.0/9.0)), French (Delf B2 Certification - Diplôme
+d'Études en Langue Française), Greek (native speaker) |
