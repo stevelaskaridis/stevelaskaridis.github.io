@@ -20,20 +20,21 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* MobiCom 2024
 * ICDCS 2024
 * DAC 2023
 * ACM IPSN {2023, 2022}
-* NeurIPS {2023, 2022}
+* NeurIPS {2024, 2023, 2022}
 * Springer ECML/PKDD 2022
 * IEEE ICDCS 2021
 * ACM IMWUT {2022, 2021, 2020}
-* ACM SIGKDD {2021,2020}
+* ACM SIGKDD {2021, 2020}
 
 #### Journals
 
 * IEEE Computer {2024}
 * IEEE Transaction on Computer Electronics 2023
-* IEEE Transactions on Mobile Computing (TMC) {2023, 2021}
+* IEEE Transactions on Mobile Computing (TMC) {2024, 2023, 2021}
 * Transactions on Parallel and Distributed Systems 2023
 * ACM Computing Surveys 2022
 * IEEE Pervasive Computing {2021, 2020}
@@ -43,6 +44,8 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* ES-FoMo @ ICML 2024
+* WANT-AI @ ICML 2024
 * EdgeFM @ MobiSys 2024
 * Privacy Regulation and Protection in Machine Learning @ ICLR 2024
 * FL-NeurIPS 2023
