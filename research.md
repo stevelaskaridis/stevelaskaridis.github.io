@@ -43,8 +43,8 @@ Exits for Federated Learning with Heterogeneous Clients”, _International Confe
 
 * "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/) \[[video](https://www.youtube.com/watch?v=aYkCAIEtEFM)\]
 * “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home) \[[video](https://www.youtube.com/watch?v=WyKxGKy_rnk)\]
-* "Dandelion: Privacy-Preserving Cross-Device FL in Brave Browser", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
-* "FedorAS: Federated Architecture Search under system heterogeneity", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/)
+* "Dandelion: Privacy-Preserving Cross-Device FL in Brave Browser", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/) \[[video](https://www.youtube.com/watch?v=tdY2KITLR74)\]
+* "FedorAS: Federated Architecture Search under system heterogeneity", [Flower Summit 2023](https://flower.dev/conf/flower-summit-2023/) \[[video](https://www.youtube.com/watch?v=UuEbMuAoCXA)\]
 * "Embracing Diversity: Overcoming System Heterogeneity Challenges in Federated Learning", CS Department, Aristotle University of Thessaloniki (AUTh)
 * "Capturing and tackling system heterogeneity in the wild: Tales from deploying DNNs across various devices", [WIC Mid-Winter Meeting 2023 @ TU Eindhoven](https://sites.google.com/view/wic-mid-winter-meeting-2023/invited-speakers)
 * Panel co-ordinator on "Distributed Inference and Learning in the datacenter and in the wild”, DistributedML 2022 \[[video](https://www.youtube.com/watch?v=DCBiLRsFY24)\]
