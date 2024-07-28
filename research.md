@@ -41,6 +41,7 @@ Exits for Federated Learning with Heterogeneous Clients”, _International Confe
 
 ## Public Talks
 
+* "MELTing point: Mobile Evaluation of Language Transformers", IETF 120 PEARG Meeting \[[video](https://youtu.be/sohvvDFT3DU?feature=shared&t=326)\]
 * "On-Device Intelligence in the Era of Hyper-Scale Models", University of Exeter, CS Department - PGR Workshop \[[slides](https://drive.google.com/file/d/12i3VJB5RR_dxgE1WO-qXuDzV5OBawD8S/view?usp=drive_link)\]
 * "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/) \[[video](https://www.youtube.com/watch?v=aYkCAIEtEFM)\]
 * “The Future of Consumer Edge-AI Computing”, [FLOW Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home) \[[video](https://www.youtube.com/watch?v=WyKxGKy_rnk)\]
