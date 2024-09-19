@@ -20,9 +20,11 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
-* MobiCom 2024
-* ICDCS 2024
-* DAC 2023
+* ICLR 2025
+* IEEE/ACM DATE 2025
+* ACM MobiCom 2024
+* IEEE ICDCS 2024
+* ACM DAC 2023
 * ACM IPSN {2023, 2022}
 * NeurIPS {2024, 2023, 2022}
 * Springer ECML/PKDD 2022
@@ -32,7 +34,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Journals
 
-* IEEE Computer {2024}
+* IEEE Computer 2024
 * IEEE Transaction on Computer Electronics 2023
 * IEEE Transactions on Mobile Computing (TMC) {2024, 2023, 2021}
 * Transactions on Parallel and Distributed Systems 2023
