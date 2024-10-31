@@ -11,7 +11,7 @@ _More coming soon._
 
 ## Peer-reviewed papers
 
-* **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _(conditionally accepted) International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
+* **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
 * **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", _IEEE Pervasive Computing_, 2024 \[[preprint](https://arxiv.org/abs/2210.10514)\]
 * R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early
 Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[paper](https://openreview.net/forum?id=w4B42sxNq3), [preprint](https://arxiv.org/abs/2405.14791), [code](https://github.com/stevelaskaridis/reefl)\]
