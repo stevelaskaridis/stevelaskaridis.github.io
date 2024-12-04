@@ -41,6 +41,9 @@ Exits for Federated Learning with Heterogeneous Clients”, _International Confe
 
 ## Public Talks
 
+* "Transformers on the Edge: Adapting Models to Diverse Systems" at Imperial College London
+* "Downsizing GenAI: Running LLMs at the Edge" at FedEdge @ MobiCom'24, Washington D.C. \[[link](https://fededge2024.github.io/programme.html)\]
+* "Paying Attention to Efficiency: LLM Deployment on Mobile and Edge Devices" at University of Cambridge \[[link](https://talks.cam.ac.uk/talk/index/223354)\]
 * "MELTing point: Mobile Evaluation of Language Transformers", IETF 120 PEARG Meeting \[[video](https://youtu.be/sohvvDFT3DU?feature=shared&t=326)\]
 * "On-Device Intelligence in the Era of Hyper-Scale Models", University of Exeter, CS Department - PGR Workshop \[[slides](https://drive.google.com/file/d/12i3VJB5RR_dxgE1WO-qXuDzV5OBawD8S/view?usp=drive_link)\]
 * "Uncovering Low-Rank Structures via Trainable Decompositions", [2nd MBZUAI Workshop on Collaborative Learning](https://mbzuai-cl.github.io/2023/) \[[video](https://www.youtube.com/watch?v=aYkCAIEtEFM)\]
