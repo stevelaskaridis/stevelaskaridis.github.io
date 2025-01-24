@@ -46,6 +46,8 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* SynthData @ ICLR 2025
+* MCDC @ ICLR 2025
 * ES-FoMo @ ICML 2024
 * WANT-AI @ ICML 2024
 * EdgeFM @ MobiSys 2024
