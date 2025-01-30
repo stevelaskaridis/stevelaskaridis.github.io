@@ -20,6 +20,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* ICML 2025
 * ICLR 2025
 * IEEE/ACM DATE 2025
 * ACM MobiCom 2024
