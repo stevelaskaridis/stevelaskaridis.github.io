@@ -7,8 +7,9 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 ## Work Experience 🧑‍💻
 
-* **ML Researcher @ Brave Software**, _London, UK_, February 2023 - Present
+* **Applied Scientist @ Amazon Science**, _London, UK_, February 2025 - Present
 * **Visiting Researcher @ University of Cambridge**, _Cambridge, UK_, November 2023 - Present
+* **ML Researcher @ Brave Software**, _London, UK_, February 2023 - January 2025
 * **ML Research Scientist @ Samsung AI Center**, _Cambridge, UK_, November 2018 - February 2023
 * **Software Engineer @ CERN**, _Meyrin, Geneva, Switzerland_, November 2015 - December 2016
 * **Programmer/SysAdmin intern @ Scientific Computing Center**, it.auth, Aristotle University of Thessaloniki, _Greece_, November 2013 - December 2015

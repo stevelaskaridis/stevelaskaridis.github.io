@@ -3,6 +3,7 @@ layout: about
 title:  News
 ---
 
+* 26/02/2025 - 💼 Joined Amazon Science as an Applied Scientist, working on optimising the LLM-based capabilities of the new Alexa+.
 * 06/12/2024 - 🎤 Giving talk on "Transformers on the Edge: Adapting Models to Diverse Systems" at Imperial College London.
 * 18/11/2024 - 🎤 Giving talk on "Downsizing GenAI: Running LLMs at the Edge" to FedEdge @ MobiCom'24.
 * 18/11/2024 - 🎓 Attending ACM MobiCom'24 in Washington DC, USA.

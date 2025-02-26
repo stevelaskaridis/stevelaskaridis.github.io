@@ -25,12 +25,12 @@ title:                 Stefanos Laskaridis
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Stefanos Laskaridis | ML Researcher @ Brave | Machine Learning
+  Stefanos Laskaridis | Applied Scientist @ Amazon | Machine Learning
 
 # A shorter description for the sidebar.
 tagline:              |
-  ML Researcher
-  @ [Brave](https://brave.com)
+  Applied Scientist
+  @ [Amazon Science](https://www.amazon.science/)
 
 # A list of keywords for your blog
 keywords:              []
