@@ -7,6 +7,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 ## Organisation
 
+* Tiny Titans: The next wave of On-Device Learning for Foundational Models (TTODLer-FM), _ICML 2025_, [https://ttodlerfm.gitlab.io/](https://ttodlerfm.gitlab.io/)
 * 1st Workshop on Human-Centric Representation Learning (HCRL), _AAAI 2024_, [https://hcrl-workshop.github.io/2024/](https://hcrl-workshop.github.io/2024/)
 * 4th International Workshop in Distributed ML, _ACM CoNEXT 2023_, [https://distributedml.org](https://distributedml.org)
 * 3rd International Workshop in Distributed ML, _ACM CoNEXT 2022_, [https://distributedml.org/archive/2022](https://distributedml.org/archive/2022)
@@ -27,7 +28,7 @@ Always looking into contributing back to the scientific community. For invitatio
 * IEEE ICDCS 2024
 * ACM DAC 2023
 * ACM IPSN {2023, 2022}
-* NeurIPS {2024, 2023, 2022}
+* NeurIPS {2025, 2024, 2023, 2022}
 * Springer ECML/PKDD 2022
 * IEEE ICDCS 2021
 * ACM IMWUT {2022, 2021, 2020}
@@ -47,6 +48,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* CFAgentic @ ICML 2025
 * SynthData @ ICLR 2025
 * MCDC @ ICLR 2025
 * ES-FoMo @ ICML 2024

@@ -3,6 +3,8 @@ layout: about
 title:  News
 ---
 
+* 27/04/2025 - 📄 Paper "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer" accepted at Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25).
+* 18/03/2025 - 🎓 Workshop "Tiny Titans: The next wave of On-Device Learning for Foundational Models" (TTODLer-FM) accepted at ICML'25 in Vancouver, Canada.
 * 26/02/2025 - 💼 Joined Amazon Science as an Applied Scientist, working on optimising the LLM-based capabilities of the new Alexa+.
 * 06/12/2024 - 🎤 Giving talk on "Transformers on the Edge: Adapting Models to Diverse Systems" at Imperial College London.
 * 18/11/2024 - 🎤 Giving talk on "Downsizing GenAI: Running LLMs at the Edge" to FedEdge @ MobiCom'24.

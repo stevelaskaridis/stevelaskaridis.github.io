@@ -11,6 +11,7 @@ _More coming soon._
 
 ## Peer-reviewed papers
 
+* R. Romijnders, S. Laskaridis, A. S. Shamsabadi, H. Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", _Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25)_, 2025 \[[preprint](https://openreview.net/pdf?id=UIzvc5u2Eu)\]
 * **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
 * **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", _IEEE Pervasive Computing_, 2024 \[[preprint](https://arxiv.org/abs/2210.10514)\]
 * R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early
