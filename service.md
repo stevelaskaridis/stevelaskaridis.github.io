@@ -48,6 +48,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* FedEdge @ MobiSys 2025
 * CFAgentic @ ICML 2025
 * SynthData @ ICLR 2025
 * MCDC @ ICLR 2025
