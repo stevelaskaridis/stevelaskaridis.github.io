@@ -7,7 +7,7 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
-_More coming soon._
+* N. Tastan, **S. Laskaridis**, M. Takac, K. Nandakumar, S. Horvath, "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning", \[[preprint](https://arxiv.org/abs/2505.21289)\]
 
 ## Peer-reviewed papers
 
