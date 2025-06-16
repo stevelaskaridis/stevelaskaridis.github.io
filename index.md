@@ -4,11 +4,14 @@ title: About me
 cover: true
 ---
 
-👋 My name is Stefanos Laskaridis and I am a ML Research Scientist. My focus is on Machine Learning and Distributed Systems, with a special interest on efficiency and privacy. I also go by "Steve" for short or "Στέφανος" in Greek.
+👋 My name is Stefanos Laskaridis and I am a Machine Learning Research Scientist specializing in Machine Learning (ML), Distributed & Mobile Systems, and Efficient ML algorithms.
+My research interest revolve around the areas of dynamic network architectures, federated/collaborative learning, on-device AI as well resource and energy-efficient deep learning.
 
-Currently, I am an applied scientist at [Amazon Science](https://www.amazon.science/), focusing on LLM research for the new Alexa+, with a particular passion for efficiency. Prior to that, I was a ML Researcher at [Brave](https://brave.com) and visiting researcher in the [University of Cambridge](https://www.cst.cam.ac.uk/people/sl829) focusing on the area of **privacy-preserving ML**, **efficient on-device and distributed ML** as well as **Federated Learning**. Before that, I used to be a research scientist at [Samsung AI Center](https://research.samsung.com/aicentre_cambridge) in Cambridge, UK, working in the areas of **distributed**, **collaborative** and **efficient on-device ML**.
-Previously, I did my MPhil in the [University of Cambridge](https://www.cst.cam.ac.uk/) and prior to that I was a Software Engineer for the Storage Group (IT-ST-TAB) at [CERN](https://cern.ch), in Geneva, Switzerland.
+Currently, I am an Applied Scientist at [Amazon Science](https://www.amazon.science/), where I focus on Large Language Models (LLMs) for Alexa+, particularly in the areas of self-learning and speculative decoding for efficient inference.
 
-My research interests, by and large, revolve around the areas of distributed systems, efficient machine learning and mobile systems. Thus, my research tends to span across these topics, ranging from efficient models for mobile deployment (such as dynamic early-exit networks) to inference offloading and from on-device ML to Federated Learning. The past years, I have been conducting research on LLMs, with special focus on efficiency at training and deployment.
+Previously, I worked as a Machine Learning Researcher at [Brave Software](https://brave.com/research/) and as a Visiting Researcher at the [University of Cambridge](https://www.cst.cam.ac.uk/people/sl829), where I focused on on-device GenAI, privacy-preserving machine learning as well as modular LLM architectures.
+
+Before that, I spent 4.5 years as a research scientist at [Samsung AI Center](https://research.samsung.com/aicentre_cambridge) in Cambridge, UK, working in the areas of **distributed**, **collaborative** and **efficient edge AI**.
+I graduated from the [University of Cambridge](https://www.cst.cam.ac.uk/) and, prior to that, I worked at [CERN](https://cern.ch), in Geneva, contributing to large-scale distributed storage systems.
 
 In my free time, I love _travelling_, _motorsport_ and _photography_. I am also passionate about the topics of _open-source_, _AGI_ and _privacy_ and like partaking in _hackathons_ from time to time. Oh, I also like coffee ☕️ ...
