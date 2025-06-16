@@ -23,12 +23,12 @@ Always looking into contributing back to the scientific community. For invitatio
 
 * ICML 2025
 * ICLR 2025
+* NeurIPS {2025, 2024, 2023, 2022}
 * IEEE/ACM DATE 2025
 * ACM MobiCom 2024
 * IEEE ICDCS 2024
 * ACM DAC 2023
 * ACM IPSN {2023, 2022}
-* NeurIPS {2025, 2024, 2023, 2022}
 * Springer ECML/PKDD 2022
 * IEEE ICDCS 2021
 * ACM IMWUT {2022, 2021, 2020}

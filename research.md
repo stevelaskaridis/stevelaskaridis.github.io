@@ -7,10 +7,11 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
-* N. Tastan, **S. Laskaridis**, M. Takac, K. Nandakumar, S. Horvath, "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning", \[[preprint](https://arxiv.org/abs/2505.21289)\]
+More coming out soon!
 
 ## Peer-reviewed papers
 
+* N. Tastan, **S. Laskaridis**, M. Takac, K. Nandakumar, S. Horvath, "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning", _Workshop on On-Device Learning for Foundational Models (TTODLer-FM @ ICML'25)_, 2025\[[preprint](https://arxiv.org/abs/2505.21289)\]
 * R. Romijnders, **S. Laskaridis**, A. S. Shamsabadi, H. Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", _Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25)_, 2025 \[[preprint](https://arxiv.org/abs/2504.18147)\]
 * **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
 * **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", _IEEE Pervasive Computing_, 2024 \[[preprint](https://arxiv.org/abs/2210.10514)\]
