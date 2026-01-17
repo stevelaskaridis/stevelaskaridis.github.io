@@ -317,6 +317,10 @@ exclude:
   - .jekyll-cache
   - .sass-cache
   - '*.toml'
+  - Dockerfile
+  - README.md
+  - docker-entrypoint.sh
+  - workers-site
   - vendor
   - Gemfile
   - Gemfile.lock
