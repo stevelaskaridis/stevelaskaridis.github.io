@@ -25,6 +25,9 @@ hide_last_modified: true
 
 ![Microarchitecture](/assets/img/blog/fluid-batching/fbe_arch.png)
 
+We designed Fluid Batching to address the challenges of serving early-exit neural networks on edge NPUs under bursty workloads. Traditional batching breaks down when inference paths vary dynamically due to early exits, so we introduced exit-aware, preemptive scheduling that adapts execution at runtime.
+
+We also explored hardware-level implications, proposing stackable processing elements to better support dynamic batching. Our approach significantly improves both average latency and tail latency, achieving close to 2x speedups and dramatically higher SLO satisfaction compared to prior DNN serving systems.
 
 
 ## Links
