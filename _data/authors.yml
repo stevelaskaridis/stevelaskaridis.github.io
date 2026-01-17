@@ -22,8 +22,8 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         stevelaskaridis
-    github:          stevelaskaridis
+    scholar:         https://scholar.google.com/citations?user=TcVC--IAAAAJ&hl=en
+    linkedin:        stevelaskaridis
     email:           mail_at_stefanos.cc
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -53,8 +53,8 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        stevelaskaridis
-    scholar:         https://scholar.google.com/citations?user=TcVC--IAAAAJ&hl=en
+    twitter:         stevelaskaridis
+    github:          stevelaskaridis
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

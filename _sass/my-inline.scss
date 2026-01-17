@@ -2,3 +2,14 @@
 // .sidebar a {
 //   text-shadow: rgba(0, 0, 0, 0.25) 0.1rem 0.1rem 0.15rem;
 // }
+
+.icon-graduation-cap::before {
+  content: "";
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  background-color: currentColor;
+  -webkit-mask: url("/assets/icons/graduation-cap.svg") no-repeat center / contain;
+  mask: url("/assets/icons/graduation-cap.svg") no-repeat center / contain;
+  vertical-align: -0.25em;
+}
