@@ -40,3 +40,14 @@ Our analysis revealed a significant gap between research-driven optimizations an
 * [preprint](https://arxiv.org/abs/2109.13963)
 * [video](https://www.youtube.com/watch?v=6iNXymLu7Ic)
 
+## Reference
+
+```
+@inproceedings{almeida2021smart,
+  title={Smart at what cost? characterising mobile deep neural networks in the wild},
+  author={Almeida, Mario and Laskaridis, Stefanos and Mehrotra, Abhinav and Dudziak, Lukasz and Leontiadis, Ilias and Lane, Nicholas D},
+  booktitle={Proceedings of the 21st ACM Internet Measurement Conference},
+  pages={658--672},
+  year={2021}
+}
+```

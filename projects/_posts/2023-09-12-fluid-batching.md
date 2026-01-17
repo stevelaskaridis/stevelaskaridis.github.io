@@ -33,3 +33,14 @@ We also explored hardware-level implications, proposing stackable processing ele
 ## Links
 
 * [preprint](https://arxiv.org/abs/2209.13443)
+
+## Reference
+
+```
+@article{kouris2022fluid,
+  title={Fluid batching: Exit-aware preemptive serving of early-exit neural networks on edge npus},
+  author={Kouris, Alexandros and Venieris, Stylianos I and Laskaridis, Stefanos and Lane, Nicholas D},
+  journal={International Conference on Computer-Aided Design (ICCAD)},
+  year={2022}
+}
+```

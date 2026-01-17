@@ -37,3 +37,14 @@ We also introduced an efficient semi-supervised training strategy to reduce labe
 * [paper](https://dl.acm.org/doi/abs/10.1145/3446382.3448359)
 * [preprint](https://arxiv.org/abs/2102.01393)
 
+## Reference
+
+```
+@inproceedings{leontiadis2021s,
+  title={It's always personal: Using early exits for efficient on-device CNN personalisation},
+  author={Leontiadis, Ilias and Laskaridis, Stefanos and Venieris, Stylianos I and Lane, Nicholas D},
+  booktitle={Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications},
+  pages={15--21},
+  year={2021}
+}
+```
