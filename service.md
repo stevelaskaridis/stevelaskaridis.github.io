@@ -22,9 +22,9 @@ Always looking into contributing back to the scientific community. For invitatio
 #### Conferences
 
 * MobiCom 2026
+* ICLR {2026, 2025}
 * AAAI 2026
 * ICML 2025
-* ICLR {2026, 2025}
 * NeurIPS {2025, 2024, 2023, 2022}
 * IEEE/ACM DATE 2025
 * ACM MobiCom 2024
@@ -50,6 +50,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Workshops
 
+* DATA-FM @ ICLR 2026
 * FedEdge @ MobiSys 2025
 * CFAgentic @ ICML 2025
 * SynthData @ ICLR 2025
