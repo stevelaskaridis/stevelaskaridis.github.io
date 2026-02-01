@@ -3,6 +3,7 @@ layout: about
 title:  News
 ---
 
+* 26/01/2026 - 📄 Paper "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning" accepted at ICLR'26.
 * 27/04/2025 - 📄 Paper "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer" accepted at Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25).
 * 18/03/2025 - 🎓 Workshop "Tiny Titans: The next wave of On-Device Learning for Foundational Models" (TTODLer-FM) accepted at ICML'25 in Vancouver, Canada.
 * 26/02/2025 - 💼 Joined Amazon Science as an Applied Scientist, working on optimising the LLM-based capabilities of the new Alexa+.
