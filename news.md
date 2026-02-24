@@ -4,7 +4,10 @@ title:  News
 ---
 
 * 26/01/2026 - 📄 Paper "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning" accepted at ICLR'26.
+* 21/10/2025 - 📜 Patent "Method, system and apparatus for federated learning" (US. 12450489) granted.
 * 27/04/2025 - 📄 Paper "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer" accepted at Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25).
+* 13/08/2025 - 🎤 Giving talk on "The Intelligence Divide: Bridging Cloud/Edge-Centric Intelligence" at IEEE HPCC'25
+* 13/07/2025 - 🎓 Attending ICML'25 in Vancouver, Canada.
 * 18/03/2025 - 🎓 Workshop "Tiny Titans: The next wave of On-Device Learning for Foundational Models" (TTODLer-FM) accepted at ICML'25 in Vancouver, Canada.
 * 26/02/2025 - 💼 Joined Amazon Science as an Applied Scientist, working on optimising the LLM-based capabilities of the new Alexa+.
 * 06/12/2024 - 🎤 Giving talk on "Transformers on the Edge: Adapting Models to Diverse Systems" at Imperial College London.
