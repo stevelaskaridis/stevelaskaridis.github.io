@@ -23,8 +23,9 @@ You can find more detailed info about me in my [CV](https://drive.google.com/fil
 
 ## Skills 🔧
 
-| **Programming/Script Languages:** | Python, C/C++, Java, Scala, Ruby, Javascript, bash |
-| **Frameworks/Tools:** | PyTorch, TensorFlow, Numpy, Pandas, W&B, Apache Spark, git, SLURM, ansible, docker, matplotlib, LaTeX |
-| **Databases:** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
-| **Operating Systems:** | GNU/Linux, Mac OS X, FreeBSD, Android |
-| **Languages:**| English (Certificate of Proficiency in English (C2), IELTS Academic (8.0/9.0)), French (Delf B2 Certification - Diplôme d'Études en Langue Française), Greek (native speaker) |
+| **ML Frameworks/Tools:** | PyTorch, Tensorflow/LiteRT, vLLM, Tensor-RT, Numpy, Pandas, W&B, HuggingFace, Apache Spark |
+| **Distributed Training:** | FSDP, DeepSpeed Zero, Tensor/Data/Sequence Parallel |
+| **Programming/Scripting Languages:** | Python, C/C++, Java, Scala, Ruby, Javascript, bash, LaTeX |
+| **System Tools:** | git, SLURM, ansible, docker, kubernetes, AWS CLI |
+| **Agentic Programming:** | Claude Code, Codex, Cline, Kiro |
+| **Languages:** | English (Certificate of Proficiency in English (C2), IELTS Academic (8.0/9.0)), French (Delf B2), Greek (native) |
