@@ -3,7 +3,7 @@ layout: about
 title:  Bio
 ---
 
-You can find more detailed info about me in my [CV](https://drive.google.com/file/d/1i5EPeGJgp3XvV_CsQfDgLoqbW0LlUdJX/view).
+You can find more detailed info about me in my [CV](https://drive.google.com/file/d/1i5EPeGJgp3XvV_CsQfDgLoqbW0LlUdJX/view) and my [short CV](https://drive.google.com/file/d/1eeec4wRtpOARs1KBoAdTBOVKrS8rHzKr/view?usp=sharing).
 
 ## Work Experience 🧑‍💻
 
