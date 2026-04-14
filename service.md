@@ -7,6 +7,7 @@ Always looking into contributing back to the scientific community. For invitatio
 
 ## Organisation
 
+* Resource-Adaptive Foundation Model Inference (AdaptFM), ICML 2026, [https://adaptfm.gitlab.io/](https://adaptfm.gitlab.io/)
 * Tiny Titans: The next wave of On-Device Learning for Foundational Models (TTODLer-FM), _ICML 2025_, [https://ttodlerfm.gitlab.io/](https://ttodlerfm.gitlab.io/)
 * 1st Workshop on Human-Centric Representation Learning (HCRL), _AAAI 2024_, [https://hcrl-workshop.github.io/2024/](https://hcrl-workshop.github.io/2024/)
 * 4th International Workshop in Distributed ML, _ACM CoNEXT 2023_, [https://distributedml.org](https://distributedml.org)
@@ -21,11 +22,11 @@ Always looking into contributing back to the scientific community. For invitatio
 
 #### Conferences
 
+* NeurIPS {2026, 2025, 2024, 2023, 2022}
 * MobiCom 2026
 * ICML {2026, 2025}
 * ICLR {2026, 2025}
 * AAAI 2026
-* NeurIPS {2025, 2024, 2023, 2022}
 * IEEE/ACM DATE 2025
 * ACM MobiCom 2024
 * IEEE ICDCS 2024

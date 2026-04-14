@@ -3,6 +3,8 @@ layout: about
 title:  News
 ---
 
+* 22/04/2026 - 🎓 Attending ICLR'26 in Rio de Janeiro, Brazil.
+* 21/03/2026 - 🎓 Workshop "Resource-Adaptive Foundation Model Inference" (AdaptFM) accepted at ICML'26 in Seoul, South Korea.
 * 26/01/2026 - 📄 Paper "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning" accepted at ICLR'26.
 * 21/10/2025 - 📜 Patent "Method, system and apparatus for federated learning" (US. 12450489) granted.
 * 27/04/2025 - 📄 Paper "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer" accepted at Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25).
