@@ -7,17 +7,17 @@ For the most updated overview of my papers, please visit my [scholar page](https
 
 ## Paper pre-prints
 
-* N. Tastan, **S. Laskaridis**, K. Nandakumar, S. Horvàth, "MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models", \[[preprint](https://arxiv.org/abs/2602.06154)\]
-* R. Zaccone, **S. Laskaridis**, M. Ciccone, S. Horvàth, "FlexRank: Nested Low-Rank Knowledge Decomposition for Adaptive Model Deployment", \[[preprint](https://arxiv.org/abs/2602.02680)\]
+_More coming out soon._
 
 ## Peer-reviewed papers
 
+* N. Tastan, **S. Laskaridis**, K. Nandakumar, S. Horvàth, "MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models", _International Conference on Machine Learning (ICML'26)_ \[[preprint](https://arxiv.org/abs/2602.06154)\]
+* R. Zaccone, **S. Laskaridis**, M. Ciccone, S. Horvàth, "FlexRank: Nested Low-Rank Knowledge Decomposition for Adaptive Model Deployment", _International Conference on Machine Learning (ICML'26)_ **Spotlight (top 5.3%)** \[[preprint](https://arxiv.org/abs/2602.02680)\]
 * N. Tastan, **S. Laskaridis**, M. Takac, K. Nandakumar, S. Horvàth, "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning", _International Conference on Learning Representations (ICLR'26) & Workshop on On-Device Learning for Foundational Models (TTODLer-FM @ ICML'25)_, 2026 \[[preprint](https://arxiv.org/abs/2505.21289)\]
 * R. Romijnders, **S. Laskaridis**, A. S. Shamsabadi, H. Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", _Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25)_, 2025 \[[preprint](https://arxiv.org/abs/2504.18147)\]
 * **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
 * **S. Laskaridis**, S. I. Venieris, A. Kouris, R. Li, N. D. Lane, "The Future of Consumer Edge-AI Computing", _IEEE Pervasive Computing_, 2024 \[[preprint](https://arxiv.org/abs/2210.10514)\]
-* R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early
-Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[paper](https://openreview.net/forum?id=w4B42sxNq3), [preprint](https://arxiv.org/abs/2405.14791), [code](https://github.com/stevelaskaridis/reefl)\]
+* R. Lee, J. Fernandez-Marques, S. Xu, D. Li, **S. Laskaridis**, Ł. Dudziak, T. Hospedales, F. Huszár, N. D. Lane, “Recurrent Early Exits for Federated Learning with Heterogeneous Clients”, _International Conference on Machine Learning (ICML)_, 2024, \[[paper](https://openreview.net/forum?id=w4B42sxNq3), [preprint](https://arxiv.org/abs/2405.14791), [code](https://github.com/stevelaskaridis/reefl)\]
 * S. Horvàth, **S. Laskaridis**, S. Rajput, H. Wang, "Maestro: Uncovering Low-Rank Structures via Trainable Decomposition", _International Conference on Machine Learning (ICML'24) & Workshop on Advancing Neural Network Training (WANT-AI @ NeurIPS'23)_, 2024 \[[paper](https://openreview.net/forum?id=7bjyambg4x), [short paper](https://openreview.net/forum?id=HsuDlFYL82),[preprint](https://arxiv.org/abs/2308.14929), [code](https://github.com/stevelaskaridis/maestro-lod)\]
 * A. Kouris\*, S. I. Venieris\*, **S. Laskaridis**, N. D. Lane, "Fluid Batching: Exit-Aware Preemptive Serving of Early-Exit Neural Networks on Edge NPUs", _International Conference on Computer-Aided Design (ICCAD)_, 2023 **Best Paper Award Finalist** \[[preprint](https://arxiv.org/abs/2209.13443)\]
 * L. Dudziak\*, **S. Laskaridis**\*, J. Fernandez-Marques\*, "FedorAS: Federated Architecture Search under system heterogeneity", _FL-NeurIPS_, 2022 \[[arXiv:2206.11239](https://arxiv.org/abs/2206.11239)\] \[[short paper](https://openreview.net/forum?id=C1NtSM4Q4i3), [code](https://github.com/SamsungLabs/FedorAS)\]
