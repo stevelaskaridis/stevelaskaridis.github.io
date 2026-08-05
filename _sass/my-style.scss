@@ -12,3 +12,149 @@
     margin: 1rem 0;
   }
 }
+
+/* ================ Career trajectory timeline ================ */
+/* Mobile-first: a single stacked column, professional and academic */
+/* entries interleaved in source order, with a left-hand spine.     */
+.timeline {
+  position: relative;
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 0 0 1.5em;
+}
+
+.timeline:before {
+  content: ' ';
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+  width: 3px;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    var(--border-color) 4%,
+    var(--border-color) 96%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+.entry {
+  position: relative;
+  padding: 0.6em 0;
+  text-align: left;
+}
+
+.flag-wrapper {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.flag {
+  position: relative;
+  display: inline-block;
+  background: var(--gray-bg);
+  border: 1px solid var(--border-color);
+  padding: 0.3em 0.7em;
+  border-radius: 5px;
+  font-weight: 600;
+}
+
+.entry .flag:before {
+  position: absolute;
+  top: 50%;
+  left: -1.5em;
+  content: ' ';
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin-top: -5px;
+  background: var(--body-bg);
+  border-radius: 50%;
+  border: 3px solid var(--accent-color);
+  z-index: 1;
+}
+
+.time-wrapper {
+  display: block;
+  margin-top: 0.25em;
+  font-size: 0.75em;
+  color: var(--accent-color);
+}
+
+.time {
+  display: inline-block;
+}
+
+.desc {
+  margin-top: 0.6em;
+  font-size: 0.85em;
+  color: var(--gray-text);
+  line-height: 1.5em;
+
+  b {
+    color: var(--body-color);
+  }
+}
+
+/* From here up: a fixed two-column grid, professional roles on the */
+/* left and academic ones on the right, aligned to the same row     */
+/* whenever the two ran concurrently (an entry can span rows too,   */
+/* e.g. a degree that overlapped with two consecutive jobs).        */
+@media screen and (min-width: 641px) {
+  .timeline {
+    display: grid;
+    grid-template-columns: 1fr 60px 1fr;
+    grid-template-rows: repeat(7, auto);
+    padding: 0;
+  }
+
+  .timeline:before {
+    position: static;
+    left: auto;
+    top: auto;
+    grid-column: 2;
+    grid-row: 1 / 8;
+    justify-self: center;
+    width: 3px;
+    height: auto;
+    align-self: stretch;
+  }
+
+  .entry {
+    grid-row: var(--row);
+    align-self: center;
+  }
+
+  .entry.prof {
+    grid-column: 1;
+    text-align: right;
+  }
+
+  .entry.acad {
+    grid-column: 3;
+    text-align: left;
+  }
+
+  .entry .flag:before {
+    left: auto;
+  }
+
+  .entry.prof .flag:before {
+    right: -25px;
+  }
+
+  .entry.acad .flag:before {
+    left: -25px;
+  }
+
+  .entry.prof .desc {
+    margin-right: 0.5em;
+  }
+
+  .entry.acad .desc {
+    margin-left: 0.5em;
+  }
+}

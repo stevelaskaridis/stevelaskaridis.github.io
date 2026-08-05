@@ -1,0 +1,66 @@
+# Career trajectory timeline (bio.md), rendered by _includes/trajectory.html.
+# track: "prof" (professional, left column) or "acad" (academic, right column).
+# row:   grid row(s) this entry occupies; two entries sharing a row ran
+#        concurrently, and a "start / end" range spans multiple rows
+#        (e.g. a degree that overlapped with two consecutive jobs).
+- track: prof
+  row: "1"
+  org: "Amazon Science"
+  time: "Feb 2025 - Present"
+  title: "Applied Scientist"
+  detail: "London, UK"
+
+- track: prof
+  row: "2"
+  org: "Brave Software"
+  time: "Feb 2023 - Jan 2025"
+  title: "ML Researcher"
+  detail: "London, UK"
+
+- track: acad
+  row: "2"
+  org: "University of Cambridge"
+  time: "Nov 2023 - Oct 2024"
+  title: "Visiting Researcher"
+
+- track: prof
+  row: "3"
+  org: "Samsung AI Center"
+  time: "Nov 2018 - Feb 2023"
+  title: "ML Research Scientist"
+  detail: "Cambridge, UK"
+
+- track: acad
+  row: "4"
+  org: "University of Cambridge"
+  time: "2017 - 2018"
+  title: "MPhil, Advanced Computer Science"
+  detail: "Distinction, Cambridge Trust Scholar"
+
+- track: prof
+  row: "5"
+  org: "CERN"
+  time: "Nov 2015 - Dec 2016"
+  title: "Software Engineer"
+  detail: "Meyrin, Geneva, Switzerland · incl. CERN School of Computing 2016"
+
+- track: prof
+  row: "6"
+  org: "Aristotle University of Thessaloniki"
+  time: "Nov 2013 - Dec 2015"
+  title: "Programmer/SysAdmin Intern"
+  detail: "Scientific Computing Center (it.auth), Greece"
+
+- track: acad
+  row: "5 / 7"
+  org: "Aristotle University of Thessaloniki"
+  time: "2012 - 2017"
+  title: "BSc, Computer Science"
+  detail: "GPA: 9.60/10.00"
+
+- track: acad
+  row: "7"
+  org: "University of Macedonia"
+  time: "2011 - 2012"
+  title: "BA, Accounting & Finance"
+  detail: "1 year"

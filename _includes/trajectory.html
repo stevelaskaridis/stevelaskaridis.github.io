@@ -1,0 +1,11 @@
+<div class="timeline" role="list">
+{% for item in site.data.trajectory %}
+  <div class="entry {{ item.track }}" role="listitem" style="--row: {{ item.row }};">
+    <div class="flag-wrapper">
+      <span class="flag">{{ item.org }}</span>
+      <span class="time-wrapper"><span class="time">{{ item.time }}</span></span>
+    </div>
+    <div class="desc"><b>{{ item.title }}</b>{% if item.detail %}<br/>{{ item.detail }}{% endif %}</div>
+  </div>
+{% endfor %}
+</div>
