@@ -11,8 +11,8 @@ _More coming out soon._
 
 ## Peer-reviewed papers
 
-* N. Tastan, **S. Laskaridis**, K. Nandakumar, S. Horvàth, "MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models", _International Conference on Machine Learning (ICML'26)_ \[[preprint](https://arxiv.org/abs/2602.06154)\]
-* R. Zaccone, **S. Laskaridis**, M. Ciccone, S. Horvàth, "FlexRank: Nested Low-Rank Knowledge Decomposition for Adaptive Model Deployment", _International Conference on Machine Learning (ICML'26)_ **Spotlight (top 5.3%)** \[[preprint](https://arxiv.org/abs/2602.02680)\]
+* N. Tastan, **S. Laskaridis**, K. Nandakumar, S. Horvàth, "MoSE: Mixture of Slimmable Experts for Efficient and Adaptive Language Models", _International Conference on Machine Learning (ICML'26)_ \[[paper](https://openreview.net/forum?id=0yK6aZLoEF), [preprint](https://arxiv.org/abs/2602.06154)\]
+* R. Zaccone, **S. Laskaridis**, M. Ciccone, S. Horvàth, "FlexRank: Nested Low-Rank Knowledge Decomposition for Adaptive Model Deployment", _International Conference on Machine Learning (ICML'26)_ **Spotlight (top 5.3%)** \[[paper](https://openreview.net/forum?id=DK0kvnNelx), [preprint](https://arxiv.org/abs/2602.02680), [blog](https://rickzack.github.io/FlexRank/)\]
 * N. Tastan, **S. Laskaridis**, M. Takac, K. Nandakumar, S. Horvàth, "LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning", _International Conference on Learning Representations (ICLR'26) & Workshop on On-Device Learning for Foundational Models (TTODLer-FM @ ICML'25)_, 2026 \[[preprint](https://arxiv.org/abs/2505.21289)\]
 * R. Romijnders, **S. Laskaridis**, A. S. Shamsabadi, H. Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", _Workshop on Modularity for Collaborative, Decentralized, & Continual Deep Learning (MCDC @ ICLR'25)_, 2025 \[[preprint](https://arxiv.org/abs/2504.18147)\]
 * **S. Laskaridis**, K. Katevas, L. Minto, H. Haddadi, "MELTing point: Mobile Evaluation of Language Transformers", _International Conference on Mobile Computing and Networking (MobiCom)_, 2024 \[[preprint](https://arxiv.org/abs/2403.12844)\]
