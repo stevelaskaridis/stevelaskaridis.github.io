@@ -1,9 +1,71 @@
-{% assign news_limit = include.limit | default: site.data.news.size %}
-<ul>
-{% for item in site.data.news limit: news_limit %}
-  <li><strong>{{ item.date }}</strong> - {{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
-{% endfor %}
-</ul>
-{% if include.limit %}
-<p><a href="/news/">See all news →</a></p>
+{% assign news_limit = include.limit %}
+{% assign page_size = include.page_size | default: 10 %}
+{% assign all_news = site.data.news %}
+{% assign paginate = false %}
+{% unless include.limit %}
+  {% if all_news.size > page_size %}
+    {% assign paginate = true %}
+  {% endif %}
+{% endunless %}
+
+<div class="news-list-wrap"{% if paginate %} data-paginate="true" data-page-size="{{ page_size }}"{% endif %}>
+  <ul class="news-list">
+  {% for item in all_news limit: news_limit %}
+    <li><strong>{{ item.date }}</strong> - {{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+  {% endfor %}
+  </ul>
+
+  {% if include.limit %}
+  <p><a href="/news/">See all news →</a></p>
+  {% elsif paginate %}
+  <nav class="news-pagination">
+    <button type="button" class="news-pagination__arrow news-pagination__prev" aria-label="Previous page">&lsaquo;</button>
+    <span class="news-pagination__status"></span>
+    <button type="button" class="news-pagination__arrow news-pagination__next" aria-label="Next page">&rsaquo;</button>
+  </nav>
+  {% endif %}
+</div>
+
+{% if paginate %}
+<script>
+(function () {
+  document.querySelectorAll('.news-list-wrap[data-paginate="true"]').forEach(function (wrap) {
+    var pageSize = parseInt(wrap.getAttribute('data-page-size'), 10) || 10;
+    var items = Array.prototype.slice.call(wrap.querySelectorAll('.news-list > li'));
+    var totalPages = Math.max(1, Math.ceil(items.length / pageSize));
+    var status = wrap.querySelector('.news-pagination__status');
+    var prevBtn = wrap.querySelector('.news-pagination__prev');
+    var nextBtn = wrap.querySelector('.news-pagination__next');
+    var current = 1;
+
+    function render() {
+      items.forEach(function (li, idx) {
+        var page = Math.floor(idx / pageSize) + 1;
+        li.style.display = (page === current) ? '' : 'none';
+      });
+      status.textContent = current + ' / ' + totalPages;
+      prevBtn.disabled = current === 1;
+      nextBtn.disabled = current === totalPages;
+    }
+
+    prevBtn.addEventListener('click', function () {
+      if (current > 1) {
+        current -= 1;
+        render();
+        wrap.scrollIntoView({ block: 'nearest' });
+      }
+    });
+
+    nextBtn.addEventListener('click', function () {
+      if (current < totalPages) {
+        current += 1;
+        render();
+        wrap.scrollIntoView({ block: 'nearest' });
+      }
+    });
+
+    render();
+  });
+})();
+</script>
 {% endif %}

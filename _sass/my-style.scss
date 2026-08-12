@@ -158,3 +158,43 @@
     margin-left: 0.5em;
   }
 }
+
+.news-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem;
+  margin: 1.5rem 0;
+
+  &__arrow {
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    background: transparent;
+    width: 1.8rem;
+    height: 1.8rem;
+    line-height: 1;
+    font-size: 1.3rem;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color .15s ease;
+
+    &:hover:not(:disabled) {
+      background-color: rgba(127, 127, 127, .15);
+    }
+
+    &:disabled {
+      opacity: .3;
+      cursor: default;
+    }
+  }
+
+  &__status {
+    font-size: .85em;
+    opacity: .6;
+    min-width: 2.5rem;
+    text-align: center;
+  }
+}
