@@ -13,6 +13,15 @@
   }
 }
 
+.service-table {
+  th:first-child,
+  td:first-child {
+    width: 20rem;
+    max-width: 20rem;
+    overflow-wrap: anywhere;
+  }
+}
+
 /* ================ Career trajectory timeline ================ */
 /* Mobile-first: a single stacked column, professional and academic */
 /* entries interleaved in source order, with a left-hand spine.     */
