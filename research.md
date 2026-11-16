@@ -44,6 +44,11 @@ _More coming out soon._
 
 ## Public Talks
 
+* "One Model, Many Budgets: Towards Adaptive Foundation Models" at Imperial College London
+* Panel moderator on "Beyond the Monolith: Adaptive Models, Agents, and the Future of AI Deployment", AdaptFM @ ICML'26 \[[video](https://slideslive.com/39084315/panel-discussion)\]
+    <small>- Panelists: Yingyan (Celine) Lin (Nvidia), Hongxu (Danny) Yin (Nvidia), Sangdoo Yun (Naver AI Lab), George Kaissis (Hasso-Plattner Institute/Google DeepMind)</small>
+* "Adaptive Inference: Adjusting Neural Workloads on Demand" at EMDL @ MobiSys'26, Cambridge \[[link](https://emdl-workshop.github.io/emdl26/keynote.html)\]
+* "The Intelligence Divide: Bridging Cloud/Edge-Centric Intelligence" at IEEE HPCC'25, Exeter \[[link](https://hpcn.exeter.ac.uk/hpcc2025/panel.php)\]
 * "Transformers on the Edge: Adapting Models to Diverse Systems" at Imperial College London \[[slides](https://drive.google.com/file/d/1dKH6r_mG36I07WuYx0f-0rPdwTGxC46E/view)\]
 * "Downsizing GenAI: Running LLMs at the Edge" at FedEdge @ MobiCom'24, Washington D.C. \[[link](https://fededge2024.github.io/programme.html)\]
 * "Paying Attention to Efficiency: LLM Deployment on Mobile and Edge Devices" at University of Cambridge \[[link](https://talks.cam.ac.uk/talk/index/223354), [slides](https://drive.google.com/file/d/1EOCWb3ZD3LnGdaAPOzyKCU2e01TuFIAH/view)\]
