@@ -44,7 +44,7 @@ _More coming out soon._
 
 ## Public Talks
 
-* "One Model, Many Budgets: Towards Adaptive Foundation Models" at Imperial College London
+* "One Model, Many Budgets: Towards Adaptive Foundation Models" at Imperial College London \[[slides](https://drive.google.com/file/d/1NCOHt1LMtLrCavbjHZtfzNkjyX3Lg76R/view)\]
 * Panel moderator on "Beyond the Monolith: Adaptive Models, Agents, and the Future of AI Deployment", AdaptFM @ ICML'26 \[[video](https://slideslive.com/39084315/panel-discussion)\]
     <small>- Panelists: Yingyan (Celine) Lin (Nvidia), Hongxu (Danny) Yin (Nvidia), Sangdoo Yun (Naver AI Lab), George Kaissis (Hasso-Plattner Institute/Google DeepMind)</small>
 * "Adaptive Inference: Adjusting Neural Workloads on Demand" at EMDL @ MobiSys'26, Cambridge \[[link](https://emdl-workshop.github.io/emdl26/keynote.html)\]
